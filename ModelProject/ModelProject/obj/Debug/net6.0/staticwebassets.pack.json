@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ModelProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ModelProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\Images\\ad1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ad1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\Images\\ad2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ad2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\Images\\ad3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ad3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\Images\\ad4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ad4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\Images\\ad5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ad5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\91756\\source\\repos\\ModelProject\\ModelProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ModelProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ModelProject.props",
+      "PackagePath": "build\\ModelProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ModelProject.props",
+      "PackagePath": "buildMultiTargeting\\ModelProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ModelProject.props",
+      "PackagePath": "buildTransitive\\ModelProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
